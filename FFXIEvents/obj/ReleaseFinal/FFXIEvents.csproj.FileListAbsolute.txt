@@ -1,0 +1,17 @@
+C:\Users\Bruno\Desktop\NBBot\FFXIEvents\bin\ReleaseFinal\FFXIEvents.dll
+C:\Users\Bruno\Desktop\NBBot\FFXIEvents\bin\ReleaseFinal\FFXIEvents.pdb
+C:\Users\Bruno\Desktop\NBBot\FFXIEvents\bin\ReleaseFinal\Castle.Core.dll
+C:\Users\Bruno\Desktop\NBBot\FFXIEvents\bin\ReleaseFinal\Castle.Windsor.dll
+C:\Users\Bruno\Desktop\NBBot\FFXIEvents\bin\ReleaseFinal\Commons.dll
+C:\Users\Bruno\Desktop\NBBot\FFXIEvents\bin\ReleaseFinal\CommunicationHandler.dll
+C:\Users\Bruno\Desktop\NBBot\FFXIEvents\bin\ReleaseFinal\FFACETools_CSharp.dll
+C:\Users\Bruno\Desktop\NBBot\FFXIEvents\bin\ReleaseFinal\KellermanSoftware.Compare-Net-Objects.dll
+C:\Users\Bruno\Desktop\NBBot\FFXIEvents\bin\ReleaseFinal\Commons.pdb
+C:\Users\Bruno\Desktop\NBBot\FFXIEvents\bin\ReleaseFinal\CommunicationHandler.pdb
+C:\Users\Bruno\Desktop\NBBot\FFXIEvents\bin\ReleaseFinal\FFACETools_CSharp.pdb
+C:\Users\Bruno\Desktop\NBBot\FFXIEvents\bin\ReleaseFinal\Castle.Core.xml
+C:\Users\Bruno\Desktop\NBBot\FFXIEvents\bin\ReleaseFinal\Castle.Windsor.xml
+C:\Users\Bruno\Desktop\NBBot\FFXIEvents\bin\ReleaseFinal\KellermanSoftware.Compare-Net-Objects.xml
+C:\Users\Bruno\Desktop\NBBot\FFXIEvents\obj\ReleaseFinal\FFXIEvents.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\Desktop\NBBot\FFXIEvents\obj\ReleaseFinal\FFXIEvents.dll
+C:\Users\Bruno\Desktop\NBBot\FFXIEvents\obj\ReleaseFinal\FFXIEvents.pdb

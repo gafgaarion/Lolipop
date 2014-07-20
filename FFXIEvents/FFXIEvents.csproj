@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{407EC650-0594-47C0-971B-AF7DE61FDEA9}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FFXIEvents</RootNamespace>
+    <AssemblyName>FFXIEvents</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'ReleaseFinal|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\ReleaseFinal\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>ManagedMinimumRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Castle.Core">
+      <HintPath>..\packages\Castle.Core.3.3.0\lib\net45\Castle.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Castle.Windsor">
+      <HintPath>..\packages\Castle.Windsor.3.3.0\lib\net45\Castle.Windsor.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="EventHandlers\ConsoleLoggerEventHandler.cs" />
+    <Compile Include="EventHandlers\UpdateVisualServerEventHandler.cs" />
+    <Compile Include="Events\CharacterAvailableForActionEvent.cs" />
+    <Compile Include="Events\CharacterHasBeenInitializedEvent.cs" />
+    <Compile Include="Events\CharacterHasDisconnectedEvent.cs" />
+    <Compile Include="Events\CharacterHasMovedEvent.cs" />
+    <Compile Include="Events\CharacterHPHasChangedEvent.cs" />
+    <Compile Include="Events\CharacterIsBusyWithActionEvent.cs" />
+    <Compile Include="Events\CharacterMPHasChangedEvent.cs" />
+    <Compile Include="Events\CharacterTPHasChangedEvent.cs" />
+    <Compile Include="Events\CharacterHasChangedMapEvent.cs" />
+    <Compile Include="Events\CharacterCastProgressChangedEvent.cs" />
+    <Compile Include="Events\CharacterLoginStatusChangedEvent.cs" />
+    <Compile Include="Events\CharacterNameChangedEvent.cs" />
+    <Compile Include="Events\CharacterHasChangedTargetEvent.cs" />
+    <Compile Include="Events\CharacterStatusHasChangedEvent.cs" />
+    <Compile Include="Events\CharacterStatusEffectsHaveChangedEvent.cs" />
+    <Compile Include="Events\CharacterViewModeChangedEvent.cs" />
+    <Compile Include="Events\CharacterUniqueIDHasChanged.cs" />
+    <Compile Include="Events\CommandEvents\CmdMoveCompletedEvent.cs" />
+    <Compile Include="Events\CommandEvents\CmdStopMoveCompletedEvent.cs" />
+    <Compile Include="Events\CommandEvents\CmdSwitchTargetCompletedEvent.cs" />
+    <Compile Include="Events\CommandEvents\CmdBeginFightingCompletedEvent.cs" />
+    <Compile Include="Events\CommandEvents\CmdEndFightingCompletedEvent.cs" />
+    <Compile Include="Events\CommandEvents\CmdSpellCompletedEvent.cs" />
+    <Compile Include="Events\CommandEvents\CmdAbilityCompletedEvent.cs" />
+    <Compile Include="Events\CommandEvents\CmdWeaponskillCompletedEvent.cs" />
+    <Compile Include="Events\CharacterAggroListChangedEvent.cs" />
+    <Compile Include="Events\CommandEvents\CmdRaCompletedEvent.cs" />
+    <Compile Include="Events\CommandEvents\CmdInteractCompletedEvent.cs" />
+    <Compile Include="Events\CommandEvents\CmdTradeCompletedEvent.cs" />
+    <Compile Include="Events\AllianceActionUsedEvent.cs" />
+    <Compile Include="Events\ObjectHasDisappearedEvent.cs" />
+    <Compile Include="Events\WorldAggroListChangedEvent.cs" />
+    <Compile Include="Events\WorldHourHasChangedEvent.cs" />
+    <Compile Include="Events\ObjectHasBeenStaggeredEvent.cs" />
+    <Compile Include="Events\ObjectTalkingChangedEvent.cs" />
+    <Compile Include="Events\ObjectHasAggroedCharacterEvent.cs" />
+    <Compile Include="Events\ObjectHasBeenClaimedEvent.cs" />
+    <Compile Include="Events\ObjectHasBeenDefeatedEvent.cs" />
+    <Compile Include="Events\ObjectHasBeenDiscoveredEvent.cs" />
+    <Compile Include="Events\ObjectHasMovedEvent.cs" />
+    <Compile Include="Events\ObjectHPHasChangedEvent.cs" />
+    <Compile Include="Impl\FileBasedEventSerializer.cs" />
+    <Compile Include="Impl\ReplayOnlyEventSerializer.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Commons\Commons.csproj">
+      <Project>{f62337a5-84ef-413d-ada0-012dfc3fed8f}</Project>
+      <Name>Commons</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CommunicationHandler\CommunicationHandler.csproj">
+      <Project>{34e1d2d3-cc46-4b07-a042-6632fffbf463}</Project>
+      <Name>CommunicationHandler</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FFACETools_CSharp\FFACETools_CSharp.csproj">
+      <Project>{d21ca99c-be12-4f3e-8db2-9285ff833e25}</Project>
+      <Name>FFACETools_CSharp</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

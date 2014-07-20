@@ -1,0 +1,10 @@
+F:\VladBotReborn\FFXIVARREvents\bin\Release\FFXIVARREvents.dll
+F:\VladBotReborn\FFXIVARREvents\bin\Release\FFXIVARREvents.pdb
+F:\VladBotReborn\FFXIVARREvents\bin\Release\CommunicationHandler.dll
+F:\VladBotReborn\FFXIVARREvents\bin\Release\CommunicationHandler.pdb
+F:\VladBotReborn\FFXIVARREvents\obj\Release\FFXIVARREvents.csprojResolveAssemblyReference.cache
+F:\VladBotReborn\FFXIVARREvents\obj\Release\FFXIVARREvents.dll
+F:\VladBotReborn\FFXIVARREvents\obj\Release\FFXIVARREvents.pdb
+F:\VladBotReborn\FFXIVARREvents\bin\Release\protobuf-net.dll
+F:\VladBotReborn\FFXIVARREvents\bin\Release\protobuf-net.pdb
+F:\VladBotReborn\FFXIVARREvents\bin\Release\protobuf-net.xml

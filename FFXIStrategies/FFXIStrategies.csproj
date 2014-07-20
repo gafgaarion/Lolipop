@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{82F5E385-DDEA-4FBA-BFEC-3F8A489295BA}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FFXIStrategies</RootNamespace>
+    <AssemblyName>FFXIStrategies</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BaseState.cs" />
+    <Compile Include="BaseStrategy.cs" />
+    <Compile Include="Impl\fRangedSkillUpStrategy\RangedSkillUpStrategy.cs" />
+    <Compile Include="Impl\fSpellSkillUpStrategy\SpellSkillUpStrategy.cs" />
+    <Compile Include="Impl\fVoidwatchStrategy\SubClasses\CharacterIntel.cs" />
+    <Compile Include="Impl\fVoidwatchStrategy\SubClasses\SkillCollection.cs" />
+    <Compile Include="Impl\fVoidwatchStrategy\SubClasses\VoidwatchWeakness.cs" />
+    <Compile Include="Impl\fVoidwatchStrategy\VoidwatchStrategy.cs" />
+    <Compile Include="Impl\fZeruhnStrategy\ZeruhnStrategy.cs" />
+    <Compile Include="Impl\fDemoStrategy\DemoStrategy.cs" />
+    <Compile Include="Impl\fDemoStrategy\SubClasses\Farmzone.cs" />
+    <Compile Include="Impl\fDynamisStrategy\DynamisStrategy.cs" />
+    <Compile Include="IStrategy.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="States\HuntState.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Commons\Commons.csproj">
+      <Project>{f62337a5-84ef-413d-ada0-012dfc3fed8f}</Project>
+      <Name>Commons</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CommunicationHandler\CommunicationHandler.csproj">
+      <Project>{34e1d2d3-cc46-4b07-a042-6632fffbf463}</Project>
+      <Name>CommunicationHandler</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FFACETools_CSharp\FFACETools_CSharp.csproj">
+      <Project>{d21ca99c-be12-4f3e-8db2-9285ff833e25}</Project>
+      <Name>FFACETools_CSharp</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FFXIAggregateRoots\FFXIAggregateRoots.csproj">
+      <Project>{b1815f78-4ece-4985-866a-f5f0b98304cd}</Project>
+      <Name>FFXIAggregateRoots</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FFXICommands\FFXICommands.csproj">
+      <Project>{25f632d3-8e88-4944-8eef-005f21e93525}</Project>
+      <Name>FFXICommands</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FFXIEvents\FFXIEvents.csproj">
+      <Project>{407ec650-0594-47c0-971b-af7de61fdea9}</Project>
+      <Name>FFXIEvents</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FFXIWorldKnowledge\FFXIWorldKnowledge.csproj">
+      <Project>{a911670e-5654-4ab5-b30b-286c59e39d7a}</Project>
+      <Name>FFXIWorldKnowledge</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Impl\fDynamisStrategy\SubClasses\" />
+    <Folder Include="Impl\fRangedSkillUpStrategy\SubClasses\" />
+    <Folder Include="Impl\fSpellSkillUpStrategy\SubClasses\" />
+    <Folder Include="Impl\fZeruhnStrategy\SubClasses\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,10 @@
+C:\Users\Bruno\Desktop\Folders\VladBotReborn\Commons\bin\Release\Commons.dll
+C:\Users\Bruno\Desktop\Folders\VladBotReborn\Commons\bin\Release\Commons.pdb
+C:\Users\Bruno\Desktop\Folders\VladBotReborn\Commons\obj\Release\Commons.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\Desktop\Folders\VladBotReborn\Commons\obj\Release\Commons.dll
+C:\Users\Bruno\Desktop\Folders\VladBotReborn\Commons\obj\Release\Commons.pdb
+C:\Users\Bruno\Desktop\Folders\VladBotReborn\Commons\bin\Release\KellermanSoftware.Compare-NET-Objects.dll
+C:\Users\Bruno\Desktop\Folders\VladBotReborn\Commons\bin\Release\KellermanSoftware.Compare-NET-Objects.xml
+C:\Users\Bruno\Desktop\NBBot\Commons\obj\Release\Commons.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\Desktop\NBBot\Commons\obj\Release\Commons.dll
+C:\Users\Bruno\Desktop\NBBot\Commons\obj\Release\Commons.pdb

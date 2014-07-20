@@ -1,0 +1,7 @@
+C:\Users\Bruno\Desktop\NBBot\Commons\bin\ReleaseFinal\Commons.dll
+C:\Users\Bruno\Desktop\NBBot\Commons\bin\ReleaseFinal\Commons.pdb
+C:\Users\Bruno\Desktop\NBBot\Commons\bin\ReleaseFinal\KellermanSoftware.Compare-NET-Objects.dll
+C:\Users\Bruno\Desktop\NBBot\Commons\bin\ReleaseFinal\KellermanSoftware.Compare-NET-Objects.xml
+C:\Users\Bruno\Desktop\NBBot\Commons\obj\ReleaseFinal\Commons.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\Desktop\NBBot\Commons\obj\ReleaseFinal\Commons.dll
+C:\Users\Bruno\Desktop\NBBot\Commons\obj\ReleaseFinal\Commons.pdb

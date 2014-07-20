@@ -1,0 +1,14 @@
+C:\Users\Bruno\Desktop\Folders\VladBotReborn\FFACETools_CSharp\bin\Release\FFACETools_CSharp.dll
+C:\Users\Bruno\Desktop\Folders\VladBotReborn\FFACETools_CSharp\bin\Release\FFACETools_CSharp.pdb
+C:\Users\Bruno\Desktop\Folders\VladBotReborn\FFACETools_CSharp\bin\Release\KellermanSoftware.Compare-NET-Objects.dll
+C:\Users\Bruno\Desktop\Folders\VladBotReborn\FFACETools_CSharp\bin\Release\KellermanSoftware.Compare-NET-Objects.xml
+C:\Users\Bruno\Desktop\Folders\VladBotReborn\FFACETools_CSharp\obj\Release\FFACETools_CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\Desktop\Folders\VladBotReborn\FFACETools_CSharp\obj\Release\FFACETools_CSharp.dll
+C:\Users\Bruno\Desktop\Folders\VladBotReborn\FFACETools_CSharp\obj\Release\FFACETools_CSharp.pdb
+C:\Users\Bruno\Desktop\NBBot\FFACETools_CSharp\bin\Release\FFACETools_CSharp.dll
+C:\Users\Bruno\Desktop\NBBot\FFACETools_CSharp\bin\Release\FFACETools_CSharp.pdb
+C:\Users\Bruno\Desktop\NBBot\FFACETools_CSharp\bin\Release\KellermanSoftware.Compare-NET-Objects.dll
+C:\Users\Bruno\Desktop\NBBot\FFACETools_CSharp\bin\Release\KellermanSoftware.Compare-NET-Objects.xml
+C:\Users\Bruno\Desktop\NBBot\FFACETools_CSharp\obj\Release\FFACETools_CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\Desktop\NBBot\FFACETools_CSharp\obj\Release\FFACETools_CSharp.dll
+C:\Users\Bruno\Desktop\NBBot\FFACETools_CSharp\obj\Release\FFACETools_CSharp.pdb

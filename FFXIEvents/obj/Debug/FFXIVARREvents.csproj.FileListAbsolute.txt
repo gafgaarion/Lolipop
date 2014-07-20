@@ -1,0 +1,10 @@
+F:\VladBotReborn\FFXIVARREvents\bin\Debug\FFXIVARREvents.dll
+F:\VladBotReborn\FFXIVARREvents\bin\Debug\FFXIVARREvents.pdb
+F:\VladBotReborn\FFXIVARREvents\bin\Debug\CommunicationHandler.dll
+F:\VladBotReborn\FFXIVARREvents\bin\Debug\protobuf-net.dll
+F:\VladBotReborn\FFXIVARREvents\bin\Debug\CommunicationHandler.pdb
+F:\VladBotReborn\FFXIVARREvents\bin\Debug\protobuf-net.pdb
+F:\VladBotReborn\FFXIVARREvents\bin\Debug\protobuf-net.xml
+F:\VladBotReborn\FFXIVARREvents\obj\Debug\FFXIVARREvents.csprojResolveAssemblyReference.cache
+F:\VladBotReborn\FFXIVARREvents\obj\Debug\FFXIVARREvents.dll
+F:\VladBotReborn\FFXIVARREvents\obj\Debug\FFXIVARREvents.pdb

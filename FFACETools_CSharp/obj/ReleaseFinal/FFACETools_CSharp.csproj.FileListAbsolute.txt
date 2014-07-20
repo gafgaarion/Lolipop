@@ -1,0 +1,5 @@
+C:\Users\Bruno\Desktop\NBBot\FFACETools_CSharp\bin\ReleaseFinal\FFACETools_CSharp.dll
+C:\Users\Bruno\Desktop\NBBot\FFACETools_CSharp\bin\ReleaseFinal\FFACETools_CSharp.pdb
+C:\Users\Bruno\Desktop\NBBot\FFACETools_CSharp\obj\ReleaseFinal\FFACETools_CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\Desktop\NBBot\FFACETools_CSharp\obj\ReleaseFinal\FFACETools_CSharp.dll
+C:\Users\Bruno\Desktop\NBBot\FFACETools_CSharp\obj\ReleaseFinal\FFACETools_CSharp.pdb

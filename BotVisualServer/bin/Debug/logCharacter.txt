@@ -1,0 +1,215 @@
+[17:25:24]   /  20140628172524    The Goblin Gambler starts casting Blaze Spikes.
+[17:25:30]   /  20140628172530    The Goblin Gambler casts Blaze Spikes.
+[17:26:38]   /  20140628172638    Queenelsa starts casting Slow on the Damselfly.
+[17:26:44]   /  20140628172644    The Damselfly hits Queenelsa for 3 points of damage.
+[17:26:44]   /  20140628172644    You can only use that command during battle.
+[17:26:47]   /  20140628172647    Queenelsa readies Heavy Swing.
+[17:26:48]   /  20140628172648    Additional effect: 16 points of damage.
+[17:26:49]   /  20140628172649    The Damselfly misses Queenelsa.
+[17:26:52]   /  20140628172652    Queenelsa starts casting Haste on Queenelsa.
+[17:26:53]   /  20140628172653    The Damselfly hits Queenelsa for 8 points of damage.
+[17:26:55]   /  20140628172655    Queenelsa's casting is interrupted.
+[17:26:58]   /  20140628172658    Unable to use job ability.
+[17:26:59]   /  20140628172659    Queenelsa hits the Damselfly for 49 points of damage.
+[17:26:59]   /  20140628172659    The Damselfly hits Queenelsa for 9 points of damage.
+[17:27:03]   /  20140628172703    Queenelsa starts casting Haste on Queenelsa.
+[17:27:04]   /  20140628172704    The Damselfly misses Queenelsa.
+[17:27:09]   /  20140628172709    Unable to use job ability.
+[17:27:09]   /  20140628172709    Queenelsa's staff skill rises 0.3 points.
+[17:27:09]   /  20140628172709    Queenelsa parries the Damselfly's attack with her weapon.
+[17:27:11]   /  20140628172711    Queenelsa casts Haste.
+[17:27:14]   /  20140628172714    The Damselfly misses Queenelsa.
+[17:27:15]   /  20140628172715    Queenelsa uses Afflatus Misery.
+[17:27:16]   /  20140628172716    Queenelsa's staff skill rises 0.2 points.
+[17:27:17]   /  20140628172717    Queenelsa hits the Damselfly for 55 points of damage.
+[17:27:19]   /  20140628172719    The Damselfly hits Queenelsa for 3 points of damage.
+[17:27:22]   /  20140628172722    Queenelsa scores a critical hit!
+[17:27:24]   /  20140628172724    The Damselfly hits Queenelsa for 3 points of damage.
+[17:27:28]   /  20140628172728    Queenelsa hits the Damselfly for 50 points of damage.
+[17:27:29]   /  20140628172729    Queenelsa defeats the Damselfly.
+[17:27:39]   /  20140628172739    Queenelsa starts casting Slow on the Damselfly.
+[17:27:45]   /  20140628172745    The Damselfly hits Queenelsa for 3 points of damage.
+[17:27:46]   /  20140628172746    Queenelsa casts Slow.
+[17:27:49]   /  20140628172749    Queenelsa hits the Damselfly for 57 points of damage.
+[17:27:51]   /  20140628172751    The Damselfly misses Queenelsa.
+[17:27:54]   /  20140628172754    Queenelsa hits the Damselfly for 45 points of damage.
+[17:27:55]   /  20140628172755    The Damselfly hits Queenelsa for 4 points of damage.
+[17:27:59]   /  20140628172759    Queenelsa's staff skill rises 0.3 points.
+[17:28:00]   /  20140628172800    Queenelsa hits the Damselfly for 42 points of damage.
+[17:28:01]   /  20140628172801    The Damselfly hits Queenelsa for 3 points of damage.
+[17:28:02]   /  20140628172802    Queenelsa readies Heavy Swing.
+[17:28:03]   /  20140628172803    Queenelsa's staff skill rises 0.1 points.
+[17:28:04]   /  20140628172804    Queenelsa uses Heavy Swing.
+[17:28:05]   /  20140628172805    The Damselfly misses Queenelsa.
+[17:28:06]   /  20140628172806    Queenelsa's staff skill rises 0.2 points.
+[17:28:07]   /  20140628172807    Queenelsa hits the Damselfly for 42 points of damage.
+[17:28:11]   /  20140628172811    The Damselfly hits Queenelsa for 4 points of damage.
+[17:28:12]   /  20140628172812    Queenelsa hits the Damselfly for 40 points of damage.
+[17:28:13]   /  20140628172813    Additional effect: 12 points of damage.
+[17:28:15]   /  20140628172815    The Damselfly misses Queenelsa.
+[17:28:18]   /  20140628172818    Queenelsa hits the Damselfly for 59 points of damage.
+[17:28:18]   /  20140628172818    Additional effect: 14 points of damage.
+[17:28:21]   /  20140628172821    The Damselfly misses Queenelsa.
+[17:32:51]   /  20140628173254    The Goblin Leecher starts casting Aquaveil.
+[17:32:59]   /  20140628173259    The Goblin Leecher casts Aquaveil.
+[17:33:29]   /  20140628173332    The Goblin Leecher starts casting Shell.
+[17:33:37]   /  20140628173338    The Goblin Leecher casts Shell.
+[17:33:40]   /  20140628173340    Queenelsa starts casting Slow on the Damselfly.
+[17:33:42]   /  20140628173342    Queenelsa's enfeebling magic skill rises 0.2 points.
+[17:33:47]   /  20140628173347    The Damselfly misses Queenelsa.
+[17:33:54]   /  20140628173356    The Damselfly misses Queenelsa.
+[17:33:55]   /  20140628173359    The Damselfly hits Queenelsa for 5 points of damage.
+[17:33:56]   /  20140628173359    Queenelsa parries the Damselfly's attack with her weapon.
+[17:33:58]   /  20140628173359    Queenelsa hits the Damselfly for 46 points of damage.
+[17:33:59]   /  20140628173359    The Damselfly hits Queenelsa for 3 points of damage.
+[17:34:01]   /  20140628173401    The Damselfly hits Queenelsa for 8 points of damage.
+[17:34:03]   /  20140628173403    Queenelsa starts casting Haste on Queenelsa.
+[17:34:03]   /  20140628173403    The Damselfly misses Queenelsa.
+[17:34:09]   /  20140628173421    The Damselfly misses Queenelsa.
+[17:34:10]   /  20140628173421    Queenelsa scores a critical hit!
+[17:34:12]   /  20140628173421    The Damselfly hits Queenelsa for 4 points of damage.
+[17:34:17]   /  20140628173421    Queenelsa hits the Damselfly for 40 points of damage.
+[17:34:20]   /  20140628173421    The Damselfly misses Queenelsa.
+[17:34:21]   /  20140628173421    The Damselfly hits Queenelsa for 3 points of damage.
+[17:34:23]   /  20140628173423    The Damselfly misses Queenelsa.
+[17:34:24]   /  20140628173424    Queenelsa readies Heavy Swing.
+[17:34:25]   /  20140628173425    Queenelsa misses the Damselfly.
+[17:34:26]   /  20140628173426    The Damselfly hits Queenelsa for 3 points of damage.
+[17:34:26]   /  20140628173426    Queenelsa uses Heavy Swing.
+[17:34:48]   /  20140628173451    The Damselfly misses Queenelsa.
+[17:34:48]   /  20140628173451    Queenelsa hits the Damselfly for 52 points of damage.
+[17:34:52]   /  20140628173522    The Damselfly hits Queenelsa for 3 points of damage.
+[17:35:21]   /  20140628173522    The Damselfly hits Queenelsa for 7 points of damage.
+[17:35:23]   /  20140628173523    Queenelsa starts casting Slow on the Damselfly.
+[17:35:24]   /  20140628173524    The Damselfly misses Queenelsa.
+[17:35:28]   /  20140628173528    The Damselfly misses Queenelsa.
+[17:35:30]   /  20140628173530    Queenelsa casts Slow.
+[17:35:32]   /  20140628173532    Queenelsa's staff skill rises 0.2 points.
+[17:35:33]   /  20140628173533    Queenelsa scores a critical hit!
+[17:35:33]   /  20140628173533    The Goblin Leecher starts casting Aquaveil.
+[17:35:34]   /  20140628173534    The Damselfly scores a critical hit!
+[17:35:37]   /  20140628173537    Queenelsa's staff skill rises 0.1 points.
+[17:35:38]   /  20140628173538    Queenelsa hits the Damselfly for 42 points of damage.
+[17:35:38]   /  20140628173538    Additional effect: 14 points of damage.
+[17:35:39]   /  20140628173539    The Damselfly hits Queenelsa for 4 points of damage.
+[17:35:42]   /  20140628173542    The Goblin Leecher casts Aquaveil.
+[17:35:43]   /  20140628173543    The Damselfly readies Cursed Sphere.
+[17:35:44]   /  20140628173544    Queenelsa hits the Damselfly for 54 points of damage.
+[17:35:46]   /  20140628173546    Queenelsa readies Heavy Swing.
+[17:35:46]   /  20140628173546    Queenelsa's staff skill rises 0.3 points.
+[17:35:47]   /  20140628173547    Queenelsa uses Heavy Swing.
+[17:35:48]   /  20140628173548    The Damselfly uses Cursed Sphere.
+[17:35:49]   /  20140628173549    Queenelsa defeats the Damselfly.
+[17:35:55]   /  20140628173555    Queenelsa starts casting Slow on the Damselfly.
+[17:35:57]   /  20140628173557    Queenelsa's enfeebling magic skill rises 0.2 points.
+[17:36:01]   /  20140628173601    The Damselfly hits Queenelsa for 8 points of damage.
+[17:36:02]   /  20140628173602    Queenelsa casts Slow.
+[17:36:05]   /  20140628173605    Queenelsa hits the Damselfly for 58 points of damage.
+[17:36:06]   /  20140628173606    The Damselfly misses Queenelsa.
+[17:36:10]   /  20140628173610    Queenelsa hits the Damselfly for 42 points of damage.
+[17:36:11]   /  20140628173611    Additional effect: 16 points of damage.
+[17:36:11]   /  20140628173611    The Damselfly hits Queenelsa for 4 points of damage.
+[17:36:15]   /  20140628173615    Queenelsa's staff skill rises 0.3 points.
+[17:36:16]   /  20140628173616    Queenelsa hits the Damselfly for 61 points of damage.
+[17:36:16]   /  20140628173616    The Damselfly misses Queenelsa.
+[17:36:21]   /  20140628173621    Queenelsa hits the Damselfly for 45 points of damage.
+[17:36:21]   /  20140628173621    Additional effect: 13 points of damage.
+[17:36:21]   /  20140628173621    The Damselfly misses Queenelsa.
+[17:36:26]   /  20140628173626    Queenelsa hits the Damselfly for 54 points of damage.
+[17:36:31]   /  20140628173631    Queenelsa's staff skill rises 0.2 points.
+[17:36:31]   /  20140628173631    Queenelsa hits the Damselfly for 54 points of damage.
+[17:36:32]   /  20140628173632    Additional effect: 12 points of damage.
+[17:36:36]   /  20140628173636    The Damselfly misses Queenelsa.
+[17:36:37]   /  20140628173637    Additional effect: 13 points of damage.
+[17:36:42]   /  20140628173642    The Damselfly misses Queenelsa.
+[17:36:42]   /  20140628173642    Queenelsa misses the Damselfly.
+[17:36:47]   /  20140628173647    The Damselfly hits Queenelsa for 3 points of damage.
+[17:36:47]   /  20140628173647    Queenelsa misses the Damselfly.
+[17:36:51]   /  20140628173651    The Damselfly misses Queenelsa.
+[17:36:52]   /  20140628173652    Queenelsa hits the Damselfly for 45 points of damage.
+[17:36:53]   /  20140628173653    Queenelsa defeats the Damselfly.
+[17:36:54]   /  20140628173654    The monster was concealing a treasure chest!
+[17:36:55]   /  20140628173655    You can only use that command during battle.
+[17:36:57]   /  20140628173657    The Goblin Leecher starts casting Aquaveil.
+[17:37:05]   /  20140628173705    Queenelsa starts casting Slow on the Damselfly.
+[17:37:08]   /  20140628173708    The Goblin Leecher casts Aquaveil.
+[17:37:08]   /  20140628173708    Unable to cast spells at this time.
+[17:37:11]   /  20140628173718    The Damselfly misses Queenelsa.
+[17:37:18]   /  20140628173718    Queenelsa casts Slow.
+[17:37:20]   /  20140628173720    You can only use that command during battle.
+[17:37:21]   /  20140628173721    The Damselfly misses Queenelsa.
+[17:37:22]   /  20140628173722    Queenelsa's staff skill rises 0.1 points.
+[17:37:23]   /  20140628173723    Queenelsa readies Heavy Swing.
+[17:37:32]   /  20140628173732    Queenelsa hits the Damselfly for 64 points of damage.
+[17:37:32]   /  20140628173732    Additional effect: 16 points of damage.
+[17:37:33]   /  20140628173733    The Goblin Leecher casts Protect.
+[17:37:35]   /  20140628173735    Queenelsa starts casting Haste on Queenelsa.
+[17:37:38]   /  20140628173738    The Damselfly hits Queenelsa for 4 points of damage.
+[17:37:40]   /  20140628173740    Queenelsa's staff skill rises 0.2 points.
+[17:37:40]   /  20140628173740    Queenelsa hits the Damselfly for 48 points of damage.
+[17:37:41]   /  20140628173741    The Damselfly hits Queenelsa for 8 points of damage.
+[17:37:41]   /  20140628173741    Queenelsa starts casting Haste on Queenelsa.
+[17:37:46]   /  20140628173746    The Damselfly misses Queenelsa.
+[17:37:47]   /  20140628173747    Unable to cast spells at this time.
+[17:37:51]   /  20140628173753    Queenelsa casts Haste.
+[17:37:56]   /  20140628173756    Queenelsa's staff skill rises 0.2 points.
+[17:37:56]   /  20140628173756    The Damselfly misses Queenelsa.
+[17:37:56]   /  20140628173756    Additional effect: 14 points of damage.
+[17:38:01]   /  20140628173801    Queenelsa's staff skill rises 0.1 points.
+[17:38:01]   /  20140628173801    The Damselfly hits Queenelsa for 7 points of damage.
+[17:38:02]   /  20140628173802    Queenelsa hits the Damselfly for 65 points of damage.
+[17:38:02]   /  20140628173802    Additional effect: 15 points of damage.
+[17:38:03]   /  20140628173803    The Goblin Leecher starts casting Blink.
+[17:38:06]   /  20140628173806    The Damselfly misses Queenelsa.
+[17:38:07]   /  20140628173807    Queenelsa hits the Damselfly for 41 points of damage.
+[17:38:07]   /  20140628173807    Additional effect: 13 points of damage.
+[17:38:08]   /  20140628173808    Queenelsa defeats the Damselfly.
+[17:38:08]   /  20140628173808    The monster was concealing a treasure chest!
+[17:40:34]   /  20140628174034    Queenelsa starts casting Slow on the Damselfly.
+[17:40:38]   /  20140628174038    Queenelsa's enfeebling magic skill rises 0.3 points.
+[17:40:38]   /  20140628174038    Unable to cast spells at this time.
+[17:40:40]   /  20140628174040    The Damselfly hits Queenelsa for 4 points of damage.
+[17:40:41]   /  20140628174041    Queenelsa casts Slow.
+[17:40:44]   /  20140628174044    Queenelsa's Haste effect wears off.
+[17:40:44]   /  20140628174044    The Goblin Leecher starts casting Aquaveil.
+[17:40:45]   /  20140628174045    The Damselfly misses Queenelsa.
+[17:40:45]   /  20140628174045    Queenelsa misses the Damselfly.
+[17:40:48]   /  20140628174048    Queenelsa starts casting Haste on Queenelsa.
+[17:40:50]   /  20140628174050    The Damselfly misses Queenelsa.
+[17:40:53]   /  20140628174053    The Goblin Leecher casts Aquaveil.
+[17:40:53]   /  20140628174053    Unable to cast spells at this time.
+[17:40:55]   /  20140628174055    The Damselfly hits Queenelsa for 8 points of damage.
+[17:40:56]   /  20140628174056    Queenelsa casts Haste.
+[17:40:56]   /  20140628174056    Queenelsa hits the Damselfly for 50 points of damage.
+[17:40:56]   /  20140628174056    Additional effect: 16 points of damage.
+[17:41:00]   /  20140628174100    The Damselfly misses Queenelsa.
+[17:41:01]   /  20140628174101    Queenelsa misses the Damselfly.
+[17:41:05]   /  20140628174105    The Damselfly misses Queenelsa.
+[17:41:07]   /  20140628174107    Queenelsa hits the Damselfly for 45 points of damage.
+[17:41:07]   /  20140628174107    Additional effect: 14 points of damage.
+[17:41:09]   /  20140628174109    Queenelsa readies Heavy Swing.
+[17:41:14]   /  20140628174114    The Damselfly hits Queenelsa for 4 points of damage.
+[17:41:14]   /  20140628174114    Queenelsa hits the Damselfly for 52 points of damage.
+[17:41:15]   /  20140628174115    The Damselfly misses Queenelsa.
+[17:41:19]   /  20140628174119    The Goblin Leecher casts Aquaveil.
+[17:41:19]   /  20140628174119    Queenelsa hits the Damselfly for 47 points of damage.
+[17:41:19]   /  20140628174119    Additional effect: 13 points of damage.
+[17:41:20]   /  20140628174120    The Damselfly hits Queenelsa for 3 points of damage.
+[17:41:25]   /  20140628174125    Queenelsa hits the Damselfly for 44 points of damage.
+[17:41:25]   /  20140628174125    The Damselfly hits Queenelsa for 3 points of damage.
+[17:41:25]   /  20140628174125    Additional effect: 12 points of damage.
+[17:41:29]   /  20140628174129    Queenelsa's staff skill rises 0.1 points.
+[17:41:30]   /  20140628174130    Queenelsa hits the Damselfly for 60 points of damage.
+[17:41:30]   /  20140628174130    The Damselfly misses Queenelsa.
+[17:41:35]   /  20140628174135    Queenelsa's staff skill rises 0.3 points.
+[17:41:35]   /  20140628174135    Queenelsa hits the Damselfly for 41 points of damage.
+[17:41:36]   /  20140628174136    Additional effect: 12 points of damage.
+[17:41:41]   /  20140628174141    Queenelsa hits the Damselfly for 42 points of damage.
+[17:41:42]   /  20140628174142    Queenelsa defeats the Damselfly.
+[17:41:42]   /  20140628174142    The monster was concealing a treasure chest!
+[17:43:08]   /  20140628174313    The Goblin Leecher starts casting Aquaveil.
+[17:43:16]   /  20140628174317    The Goblin Leecher casts Aquaveil.
+[17:43:22]   /  20140628174322    Queenelsa starts casting Slow on the Damselfly.
+[17:43:24]   /  20140628174324    Queenelsa's enfeebling magic skill rises 0.3 points.
+[17:43:28]   /  20140628174328    The Damselfly misses Queenelsa.
+[17:43:28]   /  20140628174328    Queenelsa casts Slow.

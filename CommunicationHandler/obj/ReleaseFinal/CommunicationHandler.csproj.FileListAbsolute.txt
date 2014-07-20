@@ -1,0 +1,14 @@
+C:\Users\Bruno\Desktop\NBBot\CommunicationHandler\bin\ReleaseFinal\CommunicationHandler.dll.config
+C:\Users\Bruno\Desktop\NBBot\CommunicationHandler\bin\ReleaseFinal\CommunicationHandler.dll
+C:\Users\Bruno\Desktop\NBBot\CommunicationHandler\bin\ReleaseFinal\CommunicationHandler.pdb
+C:\Users\Bruno\Desktop\NBBot\CommunicationHandler\bin\ReleaseFinal\Castle.Core.dll
+C:\Users\Bruno\Desktop\NBBot\CommunicationHandler\bin\ReleaseFinal\Castle.Windsor.dll
+C:\Users\Bruno\Desktop\NBBot\CommunicationHandler\bin\ReleaseFinal\KellermanSoftware.Compare-NET-Objects.dll
+C:\Users\Bruno\Desktop\NBBot\CommunicationHandler\bin\ReleaseFinal\Castle.Core.xml
+C:\Users\Bruno\Desktop\NBBot\CommunicationHandler\bin\ReleaseFinal\Castle.Windsor.xml
+C:\Users\Bruno\Desktop\NBBot\CommunicationHandler\bin\ReleaseFinal\KellermanSoftware.Compare-NET-Objects.xml
+C:\Users\Bruno\Desktop\NBBot\CommunicationHandler\obj\ReleaseFinal\CommunicationHandler.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\Desktop\NBBot\CommunicationHandler\obj\ReleaseFinal\CommunicationHandler.dll
+C:\Users\Bruno\Desktop\NBBot\CommunicationHandler\obj\ReleaseFinal\CommunicationHandler.pdb
+C:\Users\Bruno\Desktop\NBBot\CommunicationHandler\bin\ReleaseFinal\FFACETools_CSharp.dll
+C:\Users\Bruno\Desktop\NBBot\CommunicationHandler\bin\ReleaseFinal\FFACETools_CSharp.pdb
